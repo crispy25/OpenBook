@@ -63,7 +63,7 @@
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
-<layer number="92" name="Busses" color="1" fill="1" visible="no" active="yes"/>
+<layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
 <layer number="94" name="Symbols" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="95" name="Names" color="7" fill="1" visible="yes" active="yes"/>
@@ -2602,7 +2602,7 @@ DIN A3, landscape with location and doc. field</description>
 <part name="GND22" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="GND" device=""/>
 <part name="GND23" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="GND" device=""/>
 <part name="GND24" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="GND" device=""/>
-<part name="C7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value=" 10uF"/>
+<part name="C7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="10uF"/>
 <part uuid="2882400048" name="L1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="744043680" device="IND_4828-WE-TPC_WRE" value="68uH"/>
 <part name="D3" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="MBR0530" device=""/>
 <part name="D5" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="MBR0530" device=""/>
@@ -2658,7 +2658,7 @@ DIN A3, landscape with location and doc. field</description>
 <part name="GND42" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="GND" device=""/>
 <part name="GND43" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="GND" device=""/>
 <part name="D11" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="PGB1010603MR" device=""/>
-<part name="FRAME1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="ESP32_WROVER_FRAMES_A3L-LOC" device=""/>
+<part name="FRAME1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="ESP32_WROVER_FRAMES_A3L-LOC" device="" value="OpenBook Schematic"/>
 <part name="C9" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="ESP32_WROVER_EAGLE-LTSPICE_C" device="C0402" value="100nF"/>
 <part uuid="2882400000" name="J1" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="FH34SRJ-24S-0.5SH_99_" device=""/>
 <part name="GND7" library="DeskAssistant v19 v1" library_urn="urn:adsk.wipprod:fs.file:vf.5HXaHn4GTLqZr9JgB8AkPA" deviceset="GND" device=""/>
