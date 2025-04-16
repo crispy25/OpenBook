@@ -35,6 +35,9 @@
 + User Interface
     - The three tactile buttons are connected to GPIO pins on the ESP32-C6.
     - Hardware debouncing circuitry is implemented using RC filters.
+    - The RESET button restarts the device, typically used to recover from unresponsive states or system errors.
+    - The BOOT button allows the user to start up the device.
+    - The CHANGE button lets the user scroll or cycle through menus and book selections.
 
 + External NOR Flash 64MB - W25Q512JVEIQ
     - Non-Volatile flash memory that provides a storage solution.
